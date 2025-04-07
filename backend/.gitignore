@@ -1,0 +1,23 @@
+# Maven / Gradle
+/target
+/.classpath
+/.project
+/.settings
+/.idea
+*.iml
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+*.iws
+*.ipr
+*.iml
+/out
+
+# Environment files
+.env
